@@ -1,2 +1,2 @@
 # Quiz-game
-made by me
+this is a simple quize with a css and java script
